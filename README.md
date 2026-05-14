@@ -20,3 +20,4 @@ Numerical Aperture measurement Jig
 ---
 
 ## Result
+Thus, the numerical aperture of the fiber has been measured successfully
